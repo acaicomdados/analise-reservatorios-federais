@@ -6,7 +6,7 @@ Para nos ajudar com mais informações, pegamos a pártir do pacote r (que pode 
 
 ## Documentação
 
-Neste projeto, estamos fazendo uma documentação bem detalhada do processo de análise, se quiser ver clique [aqui](https://www.notion.so/An-lise-de-recursos-h-dricos-6d430a9618054bc1b8cd6f213cad6e3c?pvs=4)
+Neste projeto, estamos fazendo uma documentação bem detalhada do processo de análise, se quiser ver clique [aqui](https://flint-texture-e2f.notion.site/An-lise-de-recursos-h-dricos-6d430a9618054bc1b8cd6f213cad6e3c)
 
 ## Caso queira contribuir
 
