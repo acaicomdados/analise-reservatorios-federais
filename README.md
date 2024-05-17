@@ -4,6 +4,10 @@ Neste repositorio será feito a analise do dadaset esxtraido da plataforma da ba
 
 Para nos ajudar com mais informações, pegamos a pártir do pacote r (que pode ser acessado [aqui](https://github.com/brunomioto/reservatoriosBR)) no qual foi feito o cruzamento de informações envolvendo a bacia, sub bacia e geolocalização do reservatório
 
+## Documentação
+
+Neste projeto, estamos fazendo uma documentação bem detalhada do processo de análise, se quiser ver clique [aqui](https://www.notion.so/An-lise-de-recursos-h-dricos-6d430a9618054bc1b8cd6f213cad6e3c?pvs=4)
+
 ## Caso queira contribuir
 
 Caso queira contribuir com o projeto, faça um fork, coloque o o arquivo do notebook dentro da pasta 'pasta de contribuição' crie uma pasta com seu nome e o(s) arquivo(s) e faça um PR
