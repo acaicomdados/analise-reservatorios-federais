@@ -1,9 +1,11 @@
 # Análise dos reservatorios federais
 
-Neste repositorio será feito a analise do dadaset es
+Neste repositorio está com o códigos do workshop anaĺise de dados com python, na qual vai ser analisado os reservatórios federais
 extraído da plataforma da base dos dados (o link esta [aqui](https://basedosdados.org/dataset/fc7e9d13-714d-42c1-8986-bd2a3108e208?table=31415e13-ba3d-4fe0-ba27-0242ee076f7f)) inclusive com todas as instruções se quiser fazer a extração dos dados
 
-Para nos ajudar com mais informações, também se usou informações do pacote r (que pode ser acessado [aqui](https://github.com/brunomioto/reservatoriosBR)) no qual foi feito o cruzamento de informações envolvendo a bacia, sub bacia e geolocalização do reservatório
+A ideia do projeto é cruzar informação dos resevatórios com dados meteorologicos e também relacionar a vazão do reservatório com a geração de energia
+
+Para nos ajudar com mais informações,além da base dos dados, também se usou informações do pacote r (que pode ser acessado [aqui](https://github.com/brunomioto/reservatoriosBR)) no qual foi feito o cruzamento de informações envolvendo a bacia, sub bacia e geolocalização do reservatório
 
 ## Documentação
 
