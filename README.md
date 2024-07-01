@@ -15,8 +15,9 @@ Neste projeto, estamos fazendo uma documentação bem detalhada do processo de a
 
 Se quiser acompanhar o que está acontecendo de forma mais curta, seguem os links do _dev.to_
 
-- Análise das reservas federais - parte 1: https://dev.to/devsnorte/analise-das-reservas-federais-parte-1-2j6f
+- Análise dos reservatórios federais - parte 1: https://dev.to/devsnorte/analise-das-reservas-federais-parte-1-2j6f
 - Percepções sobre análise dos reservatórios parte 1: https://dev.to/devsnorte/percepcoes-sobre-analise-dos-reservatorios-parte-1-3d6h
+- Análise dos reservatórios federais - parte 2: https://dev.to/devsnorte/analise-das-reservas-federais-parte-2-1hcc
 
 ## Caso queira contribuir
 
