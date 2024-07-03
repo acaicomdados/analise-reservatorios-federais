@@ -19,6 +19,11 @@ Se quiser acompanhar o que está acontecendo de forma mais curta, seguem os link
 - Percepções sobre análise dos reservatórios parte 1: https://dev.to/devsnorte/percepcoes-sobre-analise-dos-reservatorios-parte-1-3d6h
 - Análise dos reservatórios federais - parte 2: https://dev.to/devsnorte/analise-das-reservas-federais-parte-2-1hcc
 
+## Extras
+
+Vão ser colocada na pasta `Extras` tudo o que não for principal ao projeto, mas de alguma forma complementa, como uma alguma análise extra ou evento que foi utilizado esse projeto como base, para mais informações, clique na pasta
+
+
 ## Caso queira contribuir
 
 Caso queira contribuir com o projeto, faça um fork, coloque o arquivo do notebook dentro da pasta `pasta de contribuição`, crie uma pasta com seu nome e o(s) arquivo(s), e faça um PR.
