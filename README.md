@@ -21,7 +21,7 @@ Se quiser acompanhar o que está acontecendo de forma mais curta, seguem os link
 
 ## Extras
 
-Vão ser colocada na pasta `Extras` tudo o que não for principal ao projeto, mas de alguma forma complementa, como uma alguma análise extra ou evento que foi utilizado esse projeto como base, para mais informações, clique na pasta
+Vão ser colocada na pasta `Extra` tudo o que não for principal ao projeto, mas de alguma forma complementa, como uma alguma análise extra ou evento que foi utilizado esse projeto como base, para mais informações, clique na pasta
 
 
 ## Caso queira contribuir
