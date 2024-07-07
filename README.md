@@ -18,6 +18,7 @@ Se quiser acompanhar o que está acontecendo de forma mais curta, seguem os link
 - Análise dos reservatórios federais - parte 1: https://dev.to/devsnorte/analise-das-reservas-federais-parte-1-2j6f
 - Percepções sobre análise dos reservatórios parte 1: https://dev.to/devsnorte/percepcoes-sobre-analise-dos-reservatorios-parte-1-3d6h
 - Análise dos reservatórios federais - parte 2: https://dev.to/devsnorte/analise-das-reservas-federais-parte-2-1hcc
+- Análise das estações meteorológicas - parte extra 1: https://dev.to/devsnorte/analise-das-estacoes-meteorologicas-parte-extra-1-4734
 
 ## Extras
 
