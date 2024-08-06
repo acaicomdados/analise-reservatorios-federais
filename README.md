@@ -1,5 +1,7 @@
 # Análise de Reservatórios Federais
 
+![resercatorio](https://amazoniareal.com.br/wp-content/uploads/2020/08/Barragem-de-Tucuru%C3%AD-Foto-Eneida-Castro_International-Rivers.jpg)
+
 Neste repositório estão os códigos do workshop de análise de dados com Python ministrados online na comunidade açai com dados, no qual serão analisados os reservatórios federais brasileiros extraídos da plataforma da [base dos dados](https://basedosdados.org/), extraindo dados de serie histoŕia da da Agência Nacional de Águas [ANA](https://basedosdados.org/dataset/fc7e9d13-714d-42c1-8986-bd2a3108e208?table=31415e13-ba3d-4fe0-ba27-0242ee076f7f), da [ONS](https://basedosdados.org/dataset/fcb40f26-0d15-463f-b5fe-e69d5f0affe1?table=4349b3ff-0572-4719-b729-47cd69996338),entre outros orgão que disponibilizem dados acerca dos reservatório que sejam relevantes para a análise, inclusive no site da Base dos dados esta com todas as instruções para a extração destes dados.
 
 Além das bases citadas, também foram utilizadas informações de um [pacote _R_](https://github.com/brunomioto/reservatoriosBR) dedicado à extração de dados dos principais reservatórios brasileiros, no qual foi feito o cruzamento de informações envolvendo a bacia, sub-bacia e geolocalização de cada reservatório.
