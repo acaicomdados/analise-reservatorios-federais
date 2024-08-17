@@ -7,8 +7,7 @@ Neste repositório estão os códigos do workshop de análise de dados com Pytho
 Além das bases citadas, também foram utilizadas informações de um [pacote _R_](https://github.com/brunomioto/reservatoriosBR) dedicado à extração de dados dos principais reservatórios brasileiros, no qual foi feito o cruzamento de informações envolvendo a bacia, sub-bacia e geolocalização de cada reservatório.
 
 A ideia do projeto é cruzar informações dos reservatórios com dados meteorológicos e também relacionar a vazão do reservatório com a geração de energia.
-
-
+Em um primeiro momento será feito uma análise exporatória, depois a ideia é construir modelos para fazer previsões de vazão dos reservatórios
 
 ## Documentação
 
