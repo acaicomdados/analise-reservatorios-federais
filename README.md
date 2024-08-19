@@ -32,4 +32,4 @@ Vão ser colocada na pasta `Extra` tudo o que não for principal ao projeto, mas
 
 ## Caso queira contribuir
 
-Caso queira contribuir com o projeto, faça um fork, coloque o arquivo do notebook dentro da pasta `pasta de contribuição`, crie uma pasta com seu nome e o(s) arquivo(s), e faça um PR.
+Caso queira contribuir com o projeto, faça um fork, coloque o arquivo do notebook dentro da pasta `Pasta de contribuição`, crie uma pasta com seu nome e o(s) arquivo(s), e faça um PR.
