@@ -24,7 +24,7 @@ Se quiser acompanhar o que está acontecendo de forma mais curta, seguem os link
 - Análise das estações meteorológicas - parte extra 1: https://dev.to/devsnorte/analise-das-estacoes-meteorologicas-parte-extra-1-4734
 - Analisando série histórica bacia tocantins - parte 1: https://dev.to/devsnorte/analisando-serie-historica-bacia-tocantins-parte-1-27mj
 - Analisando série histórica bacia tocantins - parte 2: https://dev.to/devsnorte/analisando-serie-historica-bacia-tocantins-parte-2-15pi
-- Sobre a bacia Tocantins-Uraguaia - https://dev.to/devsnorte/sobre-a-bacia-tocantis-uruguaia-2md0
+- Sobre a bacia Tocantins-Araguaia - https://dev.to/devsnorte/sobre-a-bacia-tocantis-uruguaia-2md0
 
 ## Extras
 
