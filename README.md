@@ -34,3 +34,7 @@ Vão ser colocada na pasta `Extra` tudo o que não for principal ao projeto, mas
 ## Caso queira contribuir
 
 Caso queira contribuir com o projeto, faça um fork, coloque o arquivo do notebook dentro da pasta `Pasta de contribuição`, crie uma pasta com seu nome e o(s) arquivo(s), e faça um PR.
+
+### Outras formas de contribuição
+
+Caso queira contribuir de outra forma que não seja por código e análise, mas tenha algum conhecimento na área, ou tema alguma sugestão para qual caminho esse projeto possa segur, nos contate por email `acaicomdados@gmail.com` ou pelo [Linkedin](https://br.linkedin.com/company/acai-com-dados) 
