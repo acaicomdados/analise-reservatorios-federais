@@ -37,4 +37,4 @@ Caso queira contribuir com o projeto, faça um fork, coloque o arquivo do notebo
 
 ### Outras formas de contribuição
 
-Caso queira contribuir de outra forma que não seja por código e análise, mas tenha algum conhecimento na área, ou tema alguma sugestão para qual caminho esse projeto possa segur, nos contate por email `acaicomdados@gmail.com` ou pelo [Linkedin](https://br.linkedin.com/company/acai-com-dados) 
+Caso queira contribuir de outra forma que não seja por código e análise, mas tenha algum conhecimento na área, ou tenha alguma sugestão para qual caminho esse projeto possa seguir, nos contate por email `acaicomdados@gmail.com` ou pelo [Linkedin](https://br.linkedin.com/company/acai-com-dados) 
